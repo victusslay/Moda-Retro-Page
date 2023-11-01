@@ -1,0 +1,120 @@
+
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: #fc9eff;
+    display: grid;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh;
+}
+
+
+.ttbr {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/013/562/075/non_2x/fashion-stylish-templates-with-organic-abstract-shapes-and-line-in-nude-pastel-colors-minimalist-background-with-copy-space-for-text-or-message-vector.jpg');
+    height: 12em;
+    margin-left: 12%;
+    margin-right: 12%;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 8);
+}
+
+
+.nbp {
+    color: #000000;
+    text-align: center;
+    font-family: 'Kings';
+    font-family: 'Rosarivo';
+    font-size: 4.30em;
+    background-color: rgba(200, 230, 255, 5);
+    border-radius: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.cont {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 0%;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.6);
+    border-radius: 0%;
+    text-align: center;
+}
+
+
+.imgp {
+    height: 100%;
+    width: 90%;
+}
+
+
+.titulos {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 3em;
+    font-style: italic;
+    font-style: oblique;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.subtitulos {
+    font-family: 'Noto Serif JP', serif;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-size: 1.5em;
+}
+
+
+.parrafos {
+    font-family: 'Noto Serif JP', serif;
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.barras {
+    background-color: #fc9eff;
+    height: 0.2em;
+}
+
+
+.cont2 {
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+
+
+.img1 {
+    border-radius: 50%;
+    height: 10%;
+    width: 10%;
+    vertical-align: middle;
+}
+
+
+.txt {
+    margin: 0;
+}
+
+
+.txt2 {
+    text-align: inherit;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 0.7em;
+    margin-left: 4%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.img2 {
+    width: 70%;
+    height: 60%;
+}
+
